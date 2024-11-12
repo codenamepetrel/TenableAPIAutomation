@@ -1,0 +1,5 @@
+#Create a list of the IPs you want to automate recasting on.
+
+10.1.1.1
+10.2.2.2
+10.3.3.3
