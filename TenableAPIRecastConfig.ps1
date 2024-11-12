@@ -1,4 +1,4 @@
-Tenable API Recast Loader for Powershell
+#Tenable API Recast Config Script for Powershell Automation
 #Pete Lenhart - 11/12/2024
 
 #This is the loader piece of the script.
