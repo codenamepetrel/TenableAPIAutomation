@@ -1,5 +1,5 @@
 #Tenable API Recast Config Script for Powershell Automation
-#Pete Lenhart - 11/12/2024
+#PL - 11/12/2024
 
 #This is the loader piece of the script.
 #This takes a txt file with IP addresses and loops through them.  For each IP, it runs the TenableSC_Recasts_Pete_Reedit.ps1 script.
