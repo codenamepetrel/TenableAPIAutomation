@@ -1,4 +1,4 @@
-#Pete Lenhart 11/12/2024
+#PL 11/12/2024
 #Operator script to update recasts in Tenable using PowerShell
 #You need to save your API access key and secret into the Secret Store Module.  
 
